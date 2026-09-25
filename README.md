@@ -2,6 +2,10 @@
 
 End-to-end machine-learning project for estimating next-month credit-card default risk using the UCI **Default of Credit Card Clients** dataset.
 
+## Live demo
+
+**[Open the Streamlit app](https://credit-default-risk-intelligence-69rgyefwwpr9jcnefo2ism.streamlit.app)**
+
 ## Project highlights
 - 30,000 historical client records
 - Leakage-safe preprocessing pipeline
